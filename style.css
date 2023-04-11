@@ -1,0 +1,23 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+#title {
+  font-size: 5rem;
+  margin: 5rem;
+}
+#prompt {
+  font-size: 2rem;
+  margin: 5rem;
+}
+#input {
+  font-size: 2rem;
+}
+#output {
+  margin-top: 10rem;
+}
